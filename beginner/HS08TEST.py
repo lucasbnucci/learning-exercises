@@ -1,5 +1,3 @@
-#Exercício 1 - Code Chef
-
 withdraw_value,account_balance = input().split()
 
 withdraw_value = int(withdraw_value)
