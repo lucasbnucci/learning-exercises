@@ -10,5 +10,3 @@ def count_four(n):
         print(answer)
 
 count_four(n)
-
-
