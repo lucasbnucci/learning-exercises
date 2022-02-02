@@ -10,7 +10,7 @@ while True:
         time.sleep(0.1)
 
     time.sleep(2)
-    pyautogui.hotkey('5') #heal5
+    pyautogui.hotkey('5') #heal5eeeeeeeeeeeeeeeeeeeeeeeeeeee
 
     for i in range(1,50):
         pyautogui.hotkey('e')
