@@ -33,9 +33,9 @@ def jogar():
 
 
     if("_" not in letras_acertadas):
-        print("Você ganhou!!")
+        print("Você ganhou!")
     else:
-        print("Você perdeu!!")
+        print("Você perdeu!")
     print("Fim do jogo")
 
 if(__name__ == "__main__"):
