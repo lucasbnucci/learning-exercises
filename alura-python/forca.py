@@ -10,7 +10,7 @@ def jogar():
     palavras = []
 
     for linha in arquivo:
-        linha = linha.strip()
+        linha = linha.strip('/n')
         palavras.append(linha)
 
     arquivo.close()
